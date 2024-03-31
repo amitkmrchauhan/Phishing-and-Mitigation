@@ -18,35 +18,35 @@ Phishing, a pervasive cyber threat, drove me to create this project. Recognizing
 
 <p align="center">
 PyPhisher Program Screenshots: <br/>
-<img src="https://imgur.com/a/0zDDILj" height="80%" width="80%" alt="PyPhisher"/>
+<img src="https://i.imgur.com/0IYqMaP.png" height="80%" width="80%" alt="PyPhisher"/>
 <br />
 <br />
 Homograph Link Crafting Technique:  <br/>
-<img src="https://imgur.com/a/9951ONM" height="80%" width="80%" alt="Homograph"/>
+<img src="https://i.imgur.com/8FLYmTV.png" height="80%" width="80%" alt="Homograph"/>
 <br />
 <br />
 Dynamic Redirection Technique:  <br/>
-<img src="https://imgur.com/a/0zMKdNO" height="80%" width="80%" alt="Dynamic Redirection"/>
+<img src="https://i.imgur.com/7LCOHbU.png" height="80%" width="80%" alt="Dynamic Redirection"/>
 <br />
 <br />
 Mitigation 1: <br/>
-<img src="https://imgur.com/a/AHGiWY2" height="80%" width="80%" alt="Mitigation 1"/>
+<img src="https://i.imgur.com/Ft3jlGx.png" height="80%" width="80%" alt="Mitigation 1"/>
 <br />
 <br />
 Mitigation 2:  <br/>
-<img src="https://imgur.com/a/psY6lS5" height="80%" width="80%" alt="Mitigation 2"/>
+<img src="https://i.imgur.com/NYNUs4Z.png" height="80%" width="80%" alt="Mitigation 2"/>
 <br />
 <br />
 Mitigation 3: <br/>
-<img src="https://imgur.com/a/P5mis5n" height="80%" width="80%" alt="Mitigation 3"/>
+<img src="https://i.imgur.com/om3UVEb.png" height="80%" width="80%" alt="Mitigation 3"/>
 <br />
 <br />
 Common Paths of Phishing Email Attack: <br/>
-<img src="https://imgur.com/a/xlHRnXS" height="80%" width="80%" alt="Phihsing Email Common Paths"/>
+<img src="https://i.imgur.com/7Fjs7nz.jpeg" height="80%" width="80%" alt="Phihsing Email Common Paths"/>
 <br />
 <br />
 How to Recognize a Phishing Email: <br/>
-<img src="https://imgur.com/a/jZ6xiii" height="80%" width="80%" alt="Phishing Email"/>
+<img src="https://i.imgur.com/yq2IEkK.jpeg" height="80%" width="80%" alt="Phishing Email"/>
 </p>
 
 
